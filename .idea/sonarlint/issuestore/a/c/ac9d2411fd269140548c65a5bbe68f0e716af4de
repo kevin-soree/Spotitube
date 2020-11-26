@@ -1,0 +1,16 @@
+
+5squid:S2068" Remove this hard-coded password.(¦ñŒ®
+4squid:S2068" Remove this hard-coded password.(“Õ†]
+_
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(€ı¥	
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Â·ÇĞøÿÿÿÿ
+,squid:S2095"Close this "Connection".(–¨‘0
+Csquid:S1313".Make this IP "127.0.0.1" address configurable.(›¿Ñä
+Hsquid:S1313".Make this IP "127.0.0.1" address configurable.(á‚€Òøÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(ıàÑÎ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(ıàÑÎ
+Ysquid:S2147"DCombine this catch with the one at line 43, which has the same body.(ıàÑÎ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
